@@ -1,6 +1,7 @@
 {
   "name": "my-react-website",
   "version": "0.1.0",
+  "homepage": "https://krembo19.github.io/myPage/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
